@@ -119,3 +119,18 @@ p{
     width:65%;
     border-radius: 100%;
 }
+.master-kush{
+    height: 277px;
+}
+#pricing{
+    text-align: center;
+    padding: 5% 7%;
+}
+.pricing-hash{
+    font-size:900;
+    font-weight: bold;
+    padding-bottom: 2%;
+}
+.leaf-quote{
+    padding-bottom: 2%;
+}
