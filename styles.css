@@ -46,6 +46,8 @@ h2{
     font-family: "Montserrat";
     font-weight: bold;
     line-height: 1.5;
+    margin-bottom: 0;
+
 }
 h3{
     font-weight: 900;
@@ -81,7 +83,7 @@ p{
     transition: color 0.25s;
 }
 #testimonials{
-    padding: 7% 15%;
+    
     text-align: center;
     background-color:#54B435 ;
     color: whitesmoke;
@@ -97,12 +99,23 @@ p{
     font-weight: 400;
     font-size: 30px;
 }
-#press{
-    background-color:#54B435 ;
-    text-align: center;
-    padding-bottom: 3%;
-}
+
 .joint-logo{
     width:15%;
-    margin: 20px 20px 50px;
+}
+.carousel-item{
+    padding: 7% 15%;
+
+}
+.carousel-item active{
+    padding-top: 25;
+    padding-bottom: 5;
+}
+.kahavate{
+    padding: 0;
+    margin-bottom: 0;
+}
+.snoopdogg-wallpaper{
+    width:65%;
+    border-radius: 100%;
 }
