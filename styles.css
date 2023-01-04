@@ -134,12 +134,71 @@ p{
 .leaf-quote{
     padding-bottom: 2%;
 }
+.rocker-gif{
+    border-radius:100%;
+    width:25%;
+    padding-top: 10%;
+}
+#cta{
+    background-color:#54B435;
+    font-family: "Montserrat";
+    text-align: center;
+}
+.brand-name{
+    text-align: center;
+    color: white;
+    background-color: #54B435;
+    padding: 3% 10%;
+}
+.rainbow-heading{
+    margin-top: 0px;
+  margin-bottom: 50px;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 3rem;
+  letter-spacing: 0.15rem;
+  text-transform: uppercase;
+  color: #fff;
+  text-shadow: 4px 4px #ef3550,
+               -8px 8px #f48fb1,
+               -12px 12px #7e57c2,
+               -16px 16px #2196f3,
+               -20px 20px #26c6da,
+               -24px 24px #43a047,
+               -28px 28px #eeff41,
+               -32px 32px #f9a825,
+               -36px 36px #ff5722;
+}
+.gliding-img{
+    border-radius:100%;
+}
+#organic-stamp{
+    text-align: center;
+    font-family: "Montserrat";
+    padding-bottom: 2%;
+}
+.stamp{
+    border-radius: 50%;
+    width: 40%;
+}
+#footer{
+    text-align: center;
+    background-color: #fff;
+    padding: 1%;
+}
+
+.bot-icon{
+    padding: 1% 0.5%;
+    font-size: 1.5rem;
+    color: rgb(24, 49, 83);
+}
 @media(max-width:990px){
     .weedphoto{
         position:relative;
         width: 75%;
-        right: 10%;
+        right: 12.5%;
         padding-top: 10%;
+
     }
     #title{
         text-align: center;
