@@ -134,3 +134,14 @@ p{
 .leaf-quote{
     padding-bottom: 2%;
 }
+@media(max-width:990px){
+    .weedphoto{
+        position:relative;
+        width: 75%;
+        right: 10%;
+        padding-top: 10%;
+    }
+    #title{
+        text-align: center;
+    }
+}
